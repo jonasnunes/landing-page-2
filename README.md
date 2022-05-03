@@ -20,10 +20,8 @@
   <li>Acesse <a href="https://jonasnunes.github.io/landing-page-2" target="_blank">clicando aqui</a>
 
 <h3>Ficou com alguma dúvida ou tem alguma sugestão de melhoria? Ou até mesmo críticas são bem vindas!</h3>
-<a href="https://www.linkedin.com/in/jonasnunees/" target="_blank">Me me envie uma mensagem pelo LinkedIn</a>
-
-<h3>Quem foi o autor do projeto?</h3>
-<p><strong>Eu mesmo!</strong> Jonas Nunes</p>
+<a href="https://www.linkedin.com/in/jonasnunees/" target="_blank">Me envie uma mensagem pelo LinkedIn</a>
+    
 <p>Se alguém tiver alguma ideia de projeto e queira me chamar para participar, estou à disposição. Será um prazer compartilhar experiências!</p>
 Design criado pelo &copy; Jefferson Vasconcellos
     
